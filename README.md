@@ -19,7 +19,7 @@ Copying Data
     
 Dictionaries
 ✅ Creating dictionaries
-    Ex:- student{ "Name" = "yash"
+    Ex:- student = { "Name" = "yash"
                   "Age" = 18
                   }
 ✅ Accessing values
