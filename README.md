@@ -1,5 +1,4 @@
 # python.bascis.2
-# Day 2
 
 Memory and Objects
 ✅ Mutable vs Immutable objects
@@ -19,7 +18,7 @@ Copying Data
     
 Dictionaries
 ✅ Creating dictionaries
-    Ex:- student = { "Name" = "yash"
+    Ex:- student = { "Name" = "yash",
                   "Age" = 18
                   }
 ✅ Accessing values
