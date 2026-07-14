@@ -1,15 +1,20 @@
 # python.bascis.2
 
-Memory and Objects
-✅ Mutable vs Immutable objects
+
+ Mutable vs Immutable objects
   list,        string,
   dict,        num,
   set          tuples
+
 ✅ References and memory behavior
+
+
 ✅ Object modification vs reassignment
   .append
-
 Copying Data
+
+
+
 ✅ Assignment (=)
 ✅ Shallow Copy (copy(), [:])
     :can't copy nested data but will copy external list
