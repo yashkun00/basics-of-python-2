@@ -1,4 +1,4 @@
-# Basics of python
+# Memory assignment and type 
 1. Memory references and behavior
 2. Assignment
 3. Shallow copy
