@@ -1,4 +1,5 @@
-1. Memory refernces and behavior
+# Basics of python
+1. Memory references and behavior
 2. Assignment
 3. Shallow copy
 4. Deep copy
