@@ -5,5 +5,4 @@
 4. Deep copy
 5. Recalling values
 6. Loop
-
-this the basics components of opps 
+this the basics components of oops
